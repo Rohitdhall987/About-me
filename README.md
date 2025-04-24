@@ -20,5 +20,5 @@ The goal of this project is to practice frontend styling, animation, and deploym
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://your-live-demo-link.com)
+🔗 [View Live Site](https://680a1ea699da409d2d3306b3--aboutrohit.netlify.app/)
 
